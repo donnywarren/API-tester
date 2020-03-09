@@ -1,9 +1,31 @@
+
+h1 {
+  text-align: center;
+  font-size: 72px;
+}
+
+input {
+  width: 75%;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 20px;  
+}
+
+button {
+  color: white;
+  background-color: black;
+  padding: 5px 20px;
+  font-size: 16px;
+}
+
+
 div {
   min-width: 200px;
   border: 1px solid black;
   padding: 10px;
   margin: 20px;  
 }
+
 .hero-logo {
   height: 500px;
   width: auto;
